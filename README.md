@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
@@ -16,24 +16,65 @@
 - 💻 Building tools in Python using PyQt6 and PostgreSQL
 - 📊 Passionate about data analysis, visualization, and building GUIs
 - 📚 Actively learning advanced topics in Python, SQL and data analytics
-- 🤝 Open to job opportunities and collaborative projects
+- 🤝 Open to job opportunities and collaborative projects, this is [MY RESUME]().
 
 ---
 
 ## 🔧 Technologies
 
-### 🐍 Languages
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300C7B7.svg?style=plastic&logo=sqlite&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
-### 🛠️ Tools
-![PyQt6](https://img.shields.io/badge/PyQt6-%2300599C.svg?style=plastic&logo=qt&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+<p align="center"> 
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+  </a>
+  
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+   </a>
+</p>
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
+</p>
 
 ---
 
@@ -43,7 +84,7 @@
 > Migrated and normalized databases from MS Access to PostgreSQL.  
 > Built a GUI with Python + PyQt6 to visualize, filter, and export administrative training data.
 
-### 📌 [Legal Firm Website – Mendoza Avelar & Abogados Asociados](https://github.com/YOUR-USERNAME/firma-legal)
+### 📌 [Legal Firm Website – Mendoza Avelar & Abogados Asociados]
 > Developed a responsive and visually dynamic multi-page website using HTML + CSS + JavaScript.  
 > Features include animated service sections, legal area detail pages.
 
@@ -57,9 +98,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abner26&theme=tokyonight_duo"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=abner26&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abner26&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
