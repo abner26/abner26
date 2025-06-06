@@ -16,7 +16,7 @@
 - 💻 Building tools in Python using PyQt6 and PostgreSQL
 - 📊 Passionate about data analysis, visualization, and building GUIs
 - 📚 Actively learning advanced topics in Python, SQL and data analytics
-- 🤝 Open to job opportunities and collaborative projects, this is [MY RESUME]().
+- 🤝 Open to job opportunities and collaborative projects, this is [MY RESUME](https://drive.google.com/file/d/1aWmejz22lOMhr_GLfy5X34t1yGtZFugS/view?usp=sharing).
 
 ---
 
